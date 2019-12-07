@@ -1,15 +1,14 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include data science and software engineering and nutrition 
 education:
   courses:
   - course: MS in Analytics 
     institution: Institute for Advanced Analytics
     year: 2020
   - course: Bachelor of Arts in Computer Science
-    institution: North Carolina State University
+    institution: University of North Carolina at Chapel Hill
     year: 2018
 email: ""
 interests:
@@ -30,10 +29,10 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mshamdasani
 superuser: true
 user_groups:
 - Researchers
